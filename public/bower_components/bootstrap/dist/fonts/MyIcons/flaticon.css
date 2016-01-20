@@ -1,0 +1,125 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+.flaticon {
+	font-size: 24px;
+}
+.flaticon-baby128:before {
+	content: "\e000";
+}
+.flaticon-baby146:before {
+	content: "\e001";
+}
+.flaticon-balance14:before {
+	content: "\e002";
+}
+.flaticon-book283:before {
+	content: "\e003";
+}
+.flaticon-car104:before {
+	content: "\e004";
+}
+.flaticon-class6:before {
+	content: "\e005";
+}
+.flaticon-cleaning14:before {
+	content: "\e006";
+}
+.flaticon-cleaning19:before {
+	content: "\e007";
+}
+.flaticon-cleaning2:before {
+	content: "\e008";
+}
+.flaticon-delivery18:before {
+	content: "\e009";
+}
+.flaticon-electricity3:before {
+	content: "\e00a";
+}
+.flaticon-father11:before {
+	content: "\e00b";
+}
+.flaticon-kitchen5:before {
+	content: "\e00c";
+}
+.flaticon-law:before {
+	content: "\e00d";
+}
+.flaticon-light105:before {
+	content: "\e00e";
+}
+.flaticon-lock6:before {
+	content: "\e00f";
+}
+.flaticon-locked26:before {
+	content: "\e010";
+}
+.flaticon-locked28:before {
+	content: "\e011";
+}
+.flaticon-logistics2:before {
+	content: "\e012";
+}
+.flaticon-logistics3:before {
+	content: "\e013";
+}
+.flaticon-medical68:before {
+	content: "\e014";
+}
+.flaticon-mop:before {
+	content: "\e015";
+}
+.flaticon-mother10:before {
+	content: "\e016";
+}
+.flaticon-mother12:before {
+	content: "\e017";
+}
+.flaticon-mother19:before {
+	content: "\e018";
+}
+.flaticon-pipe9:before {
+	content: "\e019";
+}
+.flaticon-plug42:before {
+	content: "\e01a";
+}
+.flaticon-plumber:before {
+	content: "\e01b";
+}
+.flaticon-setting4:before {
+	content: "\e01c";
+}
+.flaticon-soap3:before {
+	content: "\e01d";
+}
+.flaticon-teacher4:before {
+	content: "\e01e";
+}
+.flaticon-teacher44:before {
+	content: "\e01f";
+}
+.flaticon-toolbox3:before {
+	content: "\e020";
+}
+.flaticon-woman159:before {
+	content: "\e021";
+}
+.flaticon-working1:before {
+	content: "\e022";
+}

@@ -1,0 +1,143 @@
+body {
+  margin-top: 50px;
+  background-color: #F5F8FA;
+}
+.logo {
+  
+}
+a {
+  /*color: #009FD5;*/
+}
+.text-gray {
+  color: #666666;
+}
+.text-price {
+  color: #1a5c71;
+  background-color: #D4EEFF;
+  padding: 5px 10px;
+}
+/* Header */
+.navbar-basic {
+  background-color: #009FD5;
+  padding: 10px 0;
+  border-bottom: 1px solid #2882b5;
+}
+
+/* Navbar Services */
+.navbar-services {
+  background-color: #ffffff;
+  border-bottom: 1px solid #d3e0e9;
+}
+
+/* Nav Lines */
+.nav-lines > li {
+  float: left;
+  margin-bottom: -1px;
+}
+.nav-lines > li > a {
+  color: #737373;
+  padding: 15px 15px 15px;
+  line-height: 1.42857143;
+}
+.nav-lines > li > a:hover {
+  padding-bottom: 11px;
+  background-color: transparent;
+  border-bottom: 4px solid #009FD5;
+}
+.nav-lines > li.active > a,
+.nav-lines > li.active > a:hover,
+.nav-lines > li.active > a:focus {
+  color: #555;
+  cursor: default;
+  padding-bottom: 11px;
+  background-color: transparent;
+  border-bottom: 4px solid #009FD5;
+}
+
+/* Locate Service */
+.btn-service {
+  margin-top: 10px;
+}
+
+/* Content */
+.row-left {
+  margin-left: -10px;
+}
+.row-right {
+  margin-right: -15px;
+}
+.panel-default {
+  border-color: #d3e0e9;
+}
+.well-modified {
+  background-color: #D4EEFF;
+  border: none;
+  box-shadow: inset none;
+  -webkit-box-shadow: none;
+}
+.well-modified .checkbox {
+  margin: 0;
+}
+.breadcrumb-modified {
+  padding: 8px 0px;
+  margin-bottom: 0px;
+  background-color: #FFFFFF;
+}
+.post-title-fix {
+  min-height: 45px;
+}
+.btn-overflow {
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.fileinput .thumbnail {
+  width: 174px;
+  height: 120px;
+}
+.categories a {
+  line-height: 1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.categories .category-title {
+  color: #000;
+  font-size: 13px;
+}
+.messengers > label {
+  margin-bottom: 0px;
+}
+.category-title {
+  cursor: pointer;
+}
+
+/* Gallery */
+.list-inline > li {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.gallery ol li {
+  display: inline-block;
+}
+.gallery ol li:hover {
+  outline: 3px solid #009FD5;
+}
+@media (max-width: 480px) {
+  .gallery ol li {
+    display: inline-block;
+  }
+}
+
+/* Admin styles */
+.btn-delete {
+  display: inline;
+}
+.table-admin > tbody > tr > td {
+  vertical-align: middle;
+}
+
+.footer {
+  
+}
